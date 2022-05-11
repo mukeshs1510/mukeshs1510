@@ -1,11 +1,15 @@
 Hi 👋 My name is Mukesh Suthar
 ==============================
 
-Full Stack Developer
---------------------
+Full Stack SDE - Web Developer and Designer
+-------------------------------------------
+
+I've been learning to code for over 4 years, after switching careers. I started with Frontend development and then moved towards the Backend development with various technologies such as NodeJS, ExpressJS, SQL, PLSQL etc. However, I've also an exellent knowledge of frontend development and in the field of mobile application development.
 
 * 🌍  I'm based in India
+* 🖥️  See my portfolio at [Have a look on my work...](http://lazzyengineeer.web.app)
 * ✉️  You can contact me at [msuthar4y@gmail.com](mailto:msuthar4y@gmail.com)
+* 🧠  I'm learning Currently learning ReactJS as Primary skill in the future
 
 ### Skills
 
