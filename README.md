@@ -11,6 +11,8 @@ I've been learning to code for over 4 years, after switching careers. I started 
 * ✉️  You can contact me at [msuthar4y@gmail.com](mailto:msuthar4y@gmail.com)
 * 🧠  I'm learning Currently learning ReactJS as Primary skill in the future
 
+<a href="https://app.daily.dev/mukeshms"><img src="https://api.daily.dev/devcards/079112b8235c42628161d1fda9c92260.png?r=2e8" width="400" alt="Mukesh Suthar's Dev Card"/></a>
+
 ### Skills
 
 <p align="left">
