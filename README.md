@@ -13,7 +13,7 @@ I've been learning to code for over 4 years, after switching careers. I started 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio](http://lazzyengineeer.web.app)
 * ✉️  You can contact me at [msuthar4y@gmail.com](mailto:msuthar4y@gmail.com)
-* 🧠  I'm learning Currently learning ReactJS as Primary skill in the future
+* 🧠  I'm full-stack developer, worked on many technologies including web and mobile application
 
 <!-- <a href="https://app.daily.dev/mukeshms"><img src="https://api.daily.dev/devcards/079112b8235c42628161d1fda9c92260.png?r=2e8" width="400" alt="Mukesh Suthar's Dev Card"/></a> -->
 
