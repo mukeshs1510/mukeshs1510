@@ -11,7 +11,7 @@ Full Stack SDE - Web Developer and Designer
 I've been learning to code for over 4 years, after switching careers. I started with Frontend development and then moved towards the Backend development with various technologies such as NodeJS, ExpressJS, SQL, PLSQL etc. However, I've also an exellent knowledge of frontend development and in the field of mobile application development.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Portfolio](http://lazzyengineeer.web.app)
+* 🖥️  See my portfolio at [Portfolio](https://lazyengineer-portfolio.netlify.app/)
 * ✉️  You can contact me at [msuthar4y@gmail.com](mailto:msuthar4y@gmail.com)
 * 🧠  I'm full-stack developer, worked on many technologies including web and mobile application
 
