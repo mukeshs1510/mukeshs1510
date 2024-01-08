@@ -5,15 +5,17 @@
 Hi 👋 My name is Mukesh Suthar
 ==============================
 
-Full Stack SDE - Web Developer and Designer
+Sr. Full Stack SDE - Web Developer and Designer
 -------------------------------------------
 
-I've been learning to code for over 4 years, after switching careers. I started with Frontend development and then moved towards the Backend development with various technologies such as NodeJS, ExpressJS, SQL, PLSQL etc. However, I've also an exellent knowledge of frontend development and in the field of mobile application development.
+I am a seasoned Full Stack Engineer with more than two years of professional experience and three years of freelancing in programming. My expertise spans front-end and back-end development, enabling me to craft holistic digital solutions. I'm committed to staying updated with industry trends and delivering innovative, user-focused products. With a track record of successful projects, I bring not only technical proficiency but also effective teamwork and communication skills to every endeavor. My passion for web development continues to drive me to create exceptional digital experiences.
+
+Beyond the world of coding, I find joy in a variety of interests and hobbies. Whether it's immersing myself in the immersive realms of video games, getting lost in captivating movies, or strumming my guitar (still a work in progress, but I'm getting there 😉), I relish every moment of these pursuits. My curiosity extends beyond the familiar, and I'm always eager to dive into new horizons. Currently, I'm engrossed in exploring the cutting-edge technologies that are propelling us into the exciting world of outer space. 🚀✨
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio](https://lazyengineer-portfolio.netlify.app/)
 * ✉️  You can contact me at [msuthar4y@gmail.com](mailto:msuthar4y@gmail.com)
-* 🧠  I'm full-stack developer, worked on many technologies including web and mobile application
+* 🧠  I'm a Full-Stack Engineer, worked on many technologies including web and mobile application
 
 <!-- <a href="https://app.daily.dev/mukeshms"><img src="https://api.daily.dev/devcards/079112b8235c42628161d1fda9c92260.png?r=2e8" width="400" alt="Mukesh Suthar's Dev Card"/></a> -->
 
