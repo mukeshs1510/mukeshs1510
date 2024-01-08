@@ -51,4 +51,4 @@ I've been learning to code for over 4 years, after switching careers. I started 
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/mukeshms"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a target="_blank" href="https://www.buymeacoffee.com/mukeshms"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
